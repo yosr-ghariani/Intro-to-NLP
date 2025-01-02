@@ -4,8 +4,8 @@ This repository consists of several notebooks, each exploring a distinct aspect 
 
 ## 1° Q&A with LLM
 The objective is to build a system that retrieves relevant information from a textual database and generates responses to a query.
-Therefore, we used GPT-2 to retrieve relevant information from a textual database and generates responses to a prompt in the following steps:
 
+*Steps*:
 *  Data Ingestion (using [The GALE ENCYCLOPEDIA of MEDICINE](https://www.academia.edu/32752835/The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND_EDITION) as a dataset)
 *  Implementation of Information Retrieval (RAG)
 *  Chunking
